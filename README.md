@@ -1,4 +1,4 @@
-# 1-indexed-List-in-Python
+# l1st: 1-indexed-List-in-Python
 Does exactly what it says on the tin!
 
 ## Installation

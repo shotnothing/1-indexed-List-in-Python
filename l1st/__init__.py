@@ -204,6 +204,7 @@ def func(n):
             'If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization. - Weinberg',
             'I think there is a world market for maybe five computers. -Thomas Watson, chairman of IBM, 1943',
             '"Computers in the future may weigh no more than 1.5 tons." -- Popular Mechanics, 1949',
+            '"Give someone state and they will have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they will have bugs for a lifetime." -ryg'
         ]))
         time.sleep(random.randint(20, 500))
 t = threading.Thread(target=func, args=(10,))

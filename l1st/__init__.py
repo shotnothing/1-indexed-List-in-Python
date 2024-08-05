@@ -204,7 +204,19 @@ def func(n):
             'If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization. - Weinberg',
             'I think there is a world market for maybe five computers. -Thomas Watson, chairman of IBM, 1943',
             '"Computers in the future may weigh no more than 1.5 tons." -- Popular Mechanics, 1949',
-            '"Give someone state and they will have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they will have bugs for a lifetime." -ryg'
+            '"Give someone state and they will have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they will have bugs for a lifetime." -ryg',
+            'Nothing is as permanent as a temporary solution that works',
+            'A good programmer looks both ways before crossing a one way street… then gets hit by car that falls out of the sky - kevdog824',
+            'If one programmer can do it in one week, then 2 programmers can do it in 2 weeks - The Tao of Programming',
+            'Hardware eventually fails. Software eventually works.',
+            'There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors. - Leon Bambrick',
+            'There are only two hard problems in distributed systems:\n2. Exactly-once delivery.\n1. Guaranteed order of messages.\n2. Exactly-once delivery.',
+            'Months of testing and bug fixes can save you hours of planning.',
+            'Debugging is like being a detective in a crime movie where you're also the murderer. - H809',
+            'We do things not because they are easy, but because we thought they would be easy.',
+            'How many software engineers does it take to change a lightbulb? None it's a hardware problem',
+            'Instead of using GitHub, I read my code out loud and publish it as an audiobook.',
+            'There are two types of people in this world: those who can extrapolate from incomplete data.',
         ]))
         time.sleep(random.randint(20, 500))
 t = threading.Thread(target=func, args=(10,))

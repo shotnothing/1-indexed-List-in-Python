@@ -1,5 +1,5 @@
 # l1st: 1-indexed-List-in-Python
-Does exactly what it says on the tin!
+Does exactly what it says on the tin! Nothing more, I promise.
 
 ## Installation
 ```

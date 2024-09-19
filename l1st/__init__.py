@@ -253,10 +253,14 @@ def func(n):
             "I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone. - Bjarne Stroustrup",
             "Good code is code that is easy to change. Code tends to change until it is no longer easy to change. All code becomes bad code.",
             "Windows 9x: n. 32 bit extensions and a graphical shell for a 16 bit patch to an 8 bit operating system originally coded for a 4 bit microprocessor, written by a 2 bit company that can't stand 1 bit of competition. - Cygwin FAQ",
-            "C lets you easily shoot in your foot, C++ lets you reuse the bullet.",
             "The good thing about reinventing the wheel is that you can get a round one. - JSON inventor, Douglas Crockford, on 'reinventing' XML",
             "Programs, like ships, sink in the C.",
             "It's hard to do a really good job on anything you don’t think about in the shower. - Paul Graham",
+            "You start coding, I'll ask what the customer wants...",
+            "Laziness is the most important trait a programmer can have. If you can't be motivated to do things the easy way, then you don't have what it takes.",
+            "The most expensive words in engineering are 'It would be cool if-' - Jean-Louis Gassee",
+            "Perl – The only language that looks the same before and after RSA encryption",
+            "What I cannot build, I do not understand. - Richard Feynman",
         ]))
         time.sleep(random.randint(20, 500))
 t = threading.Thread(target=func, args=(10,))

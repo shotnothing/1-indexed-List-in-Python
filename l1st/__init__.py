@@ -261,6 +261,14 @@ def func(n):
             "The most expensive words in engineering are 'It would be cool if-' - Jean-Louis Gassee",
             "Perl – The only language that looks the same before and after RSA encryption",
             "What I cannot build, I do not understand. - Richard Feynman",
+            "If it doesn't work, it doesn't matter how fast it doesn't work. - Mich Ravera",
+            "In programming the hard part isn’t solving problems, but deciding what problems to solve. - Paul Graham",
+            "The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry. - Henry Petroski",
+            "Never put off until tomorrow what you can put off forever. - P. J  Plauge",
+            "The best programs are the ones written when the programmer is supposed to be working on something else. – Melinda Varian",
+            "The best thing about a boolean is even if you are wrong, you are only off by a bit.",
+            "The strength of JavaScript is that you can do anything. The weakness is that you will. - Reg Braithwaite",
+            "If you lie to the compiler, it will get its revenge. - Henry Spencer",
         ]))
         time.sleep(random.randint(20, 500))
 t = threading.Thread(target=func, args=(10,))

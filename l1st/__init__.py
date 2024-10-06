@@ -254,7 +254,7 @@ def func(n):
             "Good code is code that is easy to change. Code tends to change until it is no longer easy to change. All code becomes bad code.",
             "Windows 9x: n. 32 bit extensions and a graphical shell for a 16 bit patch to an 8 bit operating system originally coded for a 4 bit microprocessor, written by a 2 bit company that can't stand 1 bit of competition. - Cygwin FAQ",
             "The good thing about reinventing the wheel is that you can get a round one. - JSON inventor, Douglas Crockford, on 'reinventing' XML",
-            "Programs, like ships, sink in the C.",
+            "In Perl 6, we decided it would be better to fix the language than fix the user. - Larry Wall",
             "It's hard to do a really good job on anything you don’t think about in the shower. - Paul Graham",
             "You start coding, I'll ask what the customer wants...",
             "Laziness is the most important trait a programmer can have. If you can't be motivated to do things the easy way, then you don't have what it takes.",
